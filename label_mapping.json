@@ -1,0 +1,14 @@
+{
+  "labels": [
+    "Joy",
+    "Sadness",
+    "Neutral",
+    "Anger"
+  ],
+  "emotion_map": {
+    "0": "Joy",
+    "1": "Sadness",
+    "2": "Neutral",
+    "3": "Anger"
+  }
+}
